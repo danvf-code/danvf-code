@@ -64,14 +64,8 @@
        alt="Serpiente recorriendo mi gráfico de contribuciones" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danvf-code/danvf-code/output/pacman-contribution-graph-dark.svg"
-       alt="Pac-Man comiendo mi gráfico de contribuciones" width="100%" />
-</p>
-
 ---
 
-## 📬 Contacto
 ## 📬 Contacto
 
 <p align="center">
@@ -79,7 +73,7 @@
   <a href="https://discord.gg/9BUTX4Nb"><img src="https://img.shields.io/badge/Discord-dan__1030-7C3AED?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: dan_1030" /></a>
 </p>
 
-<!-- GIF a la derecha (se mantiene) -->
+<!-- GIF a la derecha -->
 <p align="right">
   <img src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="Animación decorativa" />
 </p>
