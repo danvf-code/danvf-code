@@ -72,11 +72,11 @@
 ---
 
 ## 📬 Contacto
+## 📬 Contacto
 
 <p align="center">
-  <a href="[TU_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:[TU_EMAIL]"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge" alt="Correo electrónico" /></a>
-  <a href="[TU_DISCORD]"><img src="https://img.shields.io/badge/Discord-7C3AED?style=for-the-badge" alt="Discord" /></a>
+  <a href="mailto:danielvelitaflores@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico" /></a>
+  <a href="https://discord.gg/9BUTX4Nb"><img src="https://img.shields.io/badge/Discord-dan__1030-7C3AED?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: dan_1030" /></a>
 </p>
 
 <!-- GIF a la derecha (se mantiene) -->
